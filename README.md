@@ -13,3 +13,5 @@ You need to also create a data directory and fill it with mp4 files named numeri
 You need to make one edit on line 12 of the index.html to include the number of mp4's you have in the \data directory.
 
 There are a couple of spots in app.js (Lines 27 and 32) that you can change the fade time and how long to show a black screen between videos, default are 2 seconds and 2 seconds.
+
+Video of the poc: https://youtu.be/kXKG3U2xc4A
